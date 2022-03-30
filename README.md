@@ -1,6 +1,11 @@
 # ShogunOfTheShadows
 
-Welcome to the Shogun of the Shadows open-source project. This game was an experiment to determine if it was possible to make a legitimate game using only my Galaxy S8+.
+Welcome to the Shogun of the Shadows open-source project. This game was an experiment to determine if it was possible to make a legitimate game using only my Galaxy S8+. Turns out it was possible to make the game using only my phone but, unfortunately, it wasn't possible to publish the game without the help of my Windows PC. The one thing I couldn't manage to do on my phone was the generation of a keystore file. Asside from that hiccup I was able to create the game using AIDE as my IDE and Pixel Studio as my art software. I outsourced the audio assets; open-source clips from FreeSound.org and a music track my friend, Faet, allowed me to use.
+
+My experiment was a success! It was possible, and mostly easy, to make a game using only my phone. Something I'd never considered as an option until recently. I'd been thinking that there had to be an easier way to dev-on-the-go without lugging around a laptop! I began looking into it and discovered a variety of IDEs were available on the Play Store. AIDE seemed to be the best option for me since I wanted to code in Java and wanted a seemless build/publish expereience. I started messing around with AIDE to get a sense for it and found it was very intuitive. I created a stock LibGDX project as I knew it would provide me with a 2D UI library I was somewhat familiar with. I jumped right in and started learning the LibGDX library and then once I had enough of the card mechanics built out using prototype images I began creating my pixel art using Pixel Studio. First the cards, then a few days later the card zones and before I knew it I had most of the game fleshed out. I went on developing and adding the final touches; like a title screen, a top score screen and a game rules screen. Now here I am publishing the game on the Play Store and providing you all with a first hand look at how I coded it.
+
+I'd like this project to serve as a way for people to learn coding and/or to provide a decent jumping-off point for their own personal or commercial projects.
+
 
 ## Additional Information
 
